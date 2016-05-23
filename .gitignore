@@ -46,9 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-.exe
-.obj
-.pdb
-.suo
-.sln
-
+*.exe
+*.ilk
+*.swp
+*.obj
+*.pdb
+*.map
