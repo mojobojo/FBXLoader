@@ -1,0 +1,5768 @@
+Version: 7400
+Parsed file!
+    Name: FBXHeaderExtension
+        Name: FBXHeaderVersion
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1003
+
+        Name: FBXVersion
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 7400
+
+        Name: EncryptionType
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: CreationTimeStamp
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1000
+
+        Name: Year
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 2016
+
+        Name: Month
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 5
+
+        Name: Day
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 22
+
+        Name: Hour
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 13
+
+        Name: Minute
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 36
+
+        Name: Second
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 57
+
+        Name: Millisecond
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 905
+
+        Name: Creator
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 46
+            Compressed Size: 0
+            Data: Blender (stable FBX IO) - 2.77 (sub 0) - 3.7.1
+
+        Name: SceneInfo
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 21
+            Compressed Size: 0
+            Data: GlobalInfo
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: UserData
+
+        Name: Type
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: UserData
+
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 100
+
+        Name: MetaData
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 100
+
+        Name: Title
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: Subject
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: Author
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: Keywords
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: Revision
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: Comment
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: Properties70
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: DocumentUrl
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: Url
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: /foobar.fbx
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: SrcDocumentUrl
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: Url
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: /foobar.fbx
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Original
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Compound
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 26
+            Compressed Size: 0
+            Data: Original|ApplicationVendor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: Blender Foundation
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 24
+            Compressed Size: 0
+            Data: Original|ApplicationName
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 23
+            Compressed Size: 0
+            Data: Blender (stable FBX IO)
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 27
+            Compressed Size: 0
+            Data: Original|ApplicationVersion
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: 2.77 (sub 0)
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 21
+            Compressed Size: 0
+            Data: Original|DateTime_GMT
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: DateTime
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 23
+            Compressed Size: 0
+            Data: 01/01/1970 00:00:00.000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 17
+            Compressed Size: 0
+            Data: Original|FileName
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: /foobar.fbx
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 9
+            Compressed Size: 0
+            Data: LastSaved
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Compound
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 27
+            Compressed Size: 0
+            Data: LastSaved|ApplicationVendor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: Blender Foundation
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 25
+            Compressed Size: 0
+            Data: LastSaved|ApplicationName
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 23
+            Compressed Size: 0
+            Data: Blender (stable FBX IO)
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 28
+            Compressed Size: 0
+            Data: LastSaved|ApplicationVersion
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: 2.77 (sub 0)
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 22
+            Compressed Size: 0
+            Data: LastSaved|DateTime_GMT
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: DateTime
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 23
+            Compressed Size: 0
+            Data: 01/01/1970 00:00:00.000
+
+    Name: FileId
+        Type: FBX_PROPERTY_RAW
+        Compressed: 0
+        Size: 16
+        Compressed Size: 0
+        Data: 00000028000000B30000002A000000EB000000B600000024000000CC000000C2000000BF000000C8000000B00000002A000000A90000002B000000FC000000F1
+
+    Name: CreationTime
+        Type: FBX_PROPERTY_STRING
+        Compressed: 0
+        Size: 23
+        Compressed Size: 0
+        Data: 1970-01-01 10:00:00:000
+
+    Name: Creator
+        Type: FBX_PROPERTY_STRING
+        Compressed: 0
+        Size: 46
+        Compressed Size: 0
+        Data: Blender (stable FBX IO) - 2.77 (sub 0) - 3.7.1
+
+    Name: GlobalSettings
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1000
+
+        Name: Properties70
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: UpAxis
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: int
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Integer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 10
+            Compressed Size: 0
+            Data: UpAxisSign
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: int
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Integer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 9
+            Compressed Size: 0
+            Data: FrontAxis
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: int
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Integer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 2
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: FrontAxisSign
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: int
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Integer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 9
+            Compressed Size: 0
+            Data: CoordAxis
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: int
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Integer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: CoordAxisSign
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: int
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Integer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: OriginalUpAxis
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: int
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Integer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: -1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: OriginalUpAxisSign
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: int
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Integer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: UnitScaleFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 23
+            Compressed Size: 0
+            Data: OriginalUnitScaleFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: AmbientColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: ColorRGB
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: DefaultCamera
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 20
+            Compressed Size: 0
+            Data: Producer Perspective
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: TimeMode
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: enum
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 11
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: TimeSpanStart
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: KTime
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: Time
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: TimeSpanStop
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: KTime
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: Time
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 46186158000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: CustomFrameRate
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 24.000000
+
+    Name: Documents
+        Name: Count
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: Document
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 313163520
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Scene
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Scene
+
+        Name: Properties70
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: SourceObject
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: object
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 19
+            Compressed Size: 0
+            Data: ActiveAnimStackName
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: RootNode
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0
+
+    Name: References
+    Name: Definitions
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 100
+
+        Name: Count
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 4
+
+        Name: ObjectType
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: GlobalSettings
+
+        Name: Count
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: ObjectType
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Geometry
+
+        Name: Count
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: PropertyTemplate
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: FbxMesh
+
+        Name: Properties70
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: ColorRGB
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: BBoxMin
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: BBoxMax
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: Primary Visibility
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: Casts Shadows
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: Receive Shadows
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: ObjectType
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Model
+
+        Name: Count
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: PropertyTemplate
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: FbxNode
+
+        Name: Properties70
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 21
+            Compressed Size: 0
+            Data: QuaternionInterpolate
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: enum
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: RotationOffset
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: RotationPivot
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: ScalingOffset
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: ScalingPivot
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 17
+            Compressed Size: 0
+            Data: TranslationActive
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: TranslationMin
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: TranslationMax
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: TranslationMinX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: TranslationMinY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: TranslationMinZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: TranslationMaxX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: TranslationMaxY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: TranslationMaxZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: RotationOrder
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: enum
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 25
+            Compressed Size: 0
+            Data: RotationSpaceForLimitOnly
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: RotationStiffnessX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: RotationStiffnessY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: RotationStiffnessZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: AxisLen
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 10.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: PreRotation
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: PostRotation
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: RotationActive
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: RotationMin
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: RotationMax
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: RotationMinX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: RotationMinY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: RotationMinZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: RotationMaxX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: RotationMaxY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: RotationMaxZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: InheritType
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: enum
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: ScalingActive
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 10
+            Compressed Size: 0
+            Data: ScalingMin
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 10
+            Compressed Size: 0
+            Data: ScalingMax
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: ScalingMinX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: ScalingMinY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: ScalingMinZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: ScalingMaxX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: ScalingMaxY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: ScalingMaxZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 20
+            Compressed Size: 0
+            Data: GeometricTranslation
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 17
+            Compressed Size: 0
+            Data: GeometricRotation
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: GeometricScaling
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: MinDampRangeX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: MinDampRangeY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: MinDampRangeZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: MaxDampRangeX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: MaxDampRangeY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: MaxDampRangeZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: MinDampStrengthX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: MinDampStrengthY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: MinDampStrengthZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: MaxDampStrengthX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: MaxDampStrengthY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: MaxDampStrengthZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: PreferedAngleX
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: PreferedAngleY
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: PreferedAngleZ
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: LookAtProperty
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: object
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: UpVectorProperty
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: object
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: Show
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 27
+            Compressed Size: 0
+            Data: NegativePercentShapeSupport
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 21
+            Compressed Size: 0
+            Data: DefaultAttributeIndex
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: int
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Integer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: -1
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Freeze
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: LODBox
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: Lcl Translation
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: Lcl Translation
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: Lcl Rotation
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: Lcl Rotation
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: Lcl Scaling
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: Lcl Scaling
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 10
+            Compressed Size: 0
+            Data: Visibility
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 10
+            Compressed Size: 0
+            Data: Visibility
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 22
+            Compressed Size: 0
+            Data: Visibility Inheritance
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 22
+            Compressed Size: 0
+            Data: Visibility Inheritance
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: ObjectType
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Material
+
+        Name: Count
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: PropertyTemplate
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: FbxSurfacePhong
+
+        Name: Properties70
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: ShadingModel
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: KString
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Phong
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 10
+            Compressed Size: 0
+            Data: MultiLayer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: bool
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: EmissiveColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: EmissiveFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: AmbientColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.200000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.200000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.200000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: AmbientFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: DiffuseColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: DiffuseFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: TransparentColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: TransparencyFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Opacity
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 9
+            Compressed Size: 0
+            Data: NormalMap
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: Bump
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: Vector3D
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Vector
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 10
+            Compressed Size: 0
+            Data: BumpFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 17
+            Compressed Size: 0
+            Data: DisplacementColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: ColorRGB
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: DisplacementFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 23
+            Compressed Size: 0
+            Data: VectorDisplacementColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: ColorRGB
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 24
+            Compressed Size: 0
+            Data: VectorDisplacementFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: double
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: SpecularColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.200000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.200000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.200000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: SpecularFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 9
+            Compressed Size: 0
+            Data: Shininess
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 20.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 17
+            Compressed Size: 0
+            Data: ShininessExponent
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 20.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: ReflectionColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: ReflectionFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+    Name: Objects
+        Name: Geometry
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 738895933
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: Cube
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: Mesh
+
+        Name: Properties70
+        Name: GeometryVersion
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 124
+
+        Name: Vertices
+            Type: FBX_PROPERTY_F64_ARRAY
+            Compressed: 1
+            Size: 192
+            Compressed Size: 84
+            Data: 1.000000 1.000000 -1.000000 1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 1.000000 -1.000000 1.000000 0.999999 1.000000 0.999999 -1.000001 1.000000 -1.000000 -1.000000 1.000000 -1.000000 1.000000 1.000000 
+
+        Name: PolygonVertexIndex
+            Type: FBX_PROPERTY_S32_ARRAY
+            Compressed: 0
+            Size: 96
+            Compressed Size: 0
+            Data: 0 1 2 -4 4 7 6 -6 0 4 5 -2 1 5 6 -3 2 6 7 -4 4 0 3 -8 
+
+        Name: Edges
+            Type: FBX_PROPERTY_S32_ARRAY
+            Compressed: 0
+            Size: 48
+            Compressed Size: 0
+            Data: 0 1 2 3 4 5 6 7 8 10 14 18 
+
+        Name: LayerElementNormal
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 101
+
+        Name: Name
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: MappingInformationType
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: ByPolygonVertex
+
+        Name: ReferenceInformationType
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Direct
+
+        Name: Normals
+            Type: FBX_PROPERTY_F64_ARRAY
+            Compressed: 1
+            Size: 576
+            Compressed Size: 82
+            Data: 0.577349 0.577349 -0.577349 0.577349 -0.577349 -0.577349 -0.577349 -0.577349 -0.577349 -0.577349 0.577349 -0.577349 0.577349 0.577349 0.577349 -0.577349 0.577349 0.577349 -0.577349 -0.577349 0.577349 0.577349 -0.577349 0.577349 0.577349 0.577349 -0.577349 0.577349 0.577349 0.577349 0.577349 -0.577349 0.577349 0.577349 -0.577349 -0.577349 0.577349 -0.577349 -0.577349 0.577349 -0.577349 0.577349 -0.577349 -0.577349 0.577349 -0.577349 -0.577349 -0.577349 -0.577349 -0.577349 -0.577349 -0.577349 -0.577349 0.577349 -0.577349 0.577349 0.577349 -0.577349 0.577349 -0.577349 0.577349 0.577349 0.577349 0.577349 0.577349 -0.577349 -0.577349 0.577349 -0.577349 -0.577349 0.577349 0.577349 
+
+        Name: LayerElementUV
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 101
+
+        Name: Name
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: UVMap
+
+        Name: MappingInformationType
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: ByPolygonVertex
+
+        Name: ReferenceInformationType
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: IndexToDirect
+
+        Name: UV
+            Type: FBX_PROPERTY_F64_ARRAY
+            Compressed: 0
+            Size: 64
+            Compressed Size: 0
+            Data: 0.000000 1.000000 1.000000 0.000000 0.000000 0.000000 1.000000 1.000000 
+
+        Name: UVIndex
+            Type: FBX_PROPERTY_S32_ARRAY
+            Compressed: 0
+            Size: 96
+            Compressed Size: 0
+            Data: 2 1 3 0 2 1 3 0 2 1 3 0 2 1 3 0 2 1 3 0 2 1 3 0 
+
+        Name: LayerElementMaterial
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 101
+
+        Name: Name
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: MappingInformationType
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: AllSame
+
+        Name: ReferenceInformationType
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: IndexToDirect
+
+        Name: Materials
+            Type: FBX_PROPERTY_S32_ARRAY
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0 
+
+        Name: Layer
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 100
+
+        Name: LayerElement
+        Name: Type
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: LayerElementNormal
+
+        Name: TypedIndex
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: LayerElement
+        Name: Type
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: LayerElementUV
+
+        Name: TypedIndex
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: LayerElement
+        Name: Type
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 20
+            Compressed Size: 0
+            Data: LayerElementMaterial
+
+        Name: TypedIndex
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: Model
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 790445974
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: Cube
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: Mesh
+
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 232
+
+        Name: Properties70
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: Lcl Rotation
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: Lcl Rotation
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: -90.000009
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: Lcl Scaling
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: Lcl Scaling
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 100.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 100.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 100.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 21
+            Compressed Size: 0
+            Data: DefaultAttributeIndex
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 3
+            Compressed Size: 0
+            Data: int
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 7
+            Compressed Size: 0
+            Data: Integer
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 11
+            Compressed Size: 0
+            Data: InheritType
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: enum
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 1
+
+        Name: MultiLayer
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: MultiTake
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: Shading
+            Type: FBX_PROPERTY_BOOL
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: true
+
+        Name: Culling
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 10
+            Compressed Size: 0
+            Data: CullingOff
+
+        Name: Material
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 19152304
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 18
+            Compressed Size: 0
+            Data: Material
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+        Name: Version
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 102
+
+        Name: ShadingModel
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Phong
+
+        Name: MultiLayer
+            Type: FBX_PROPERTY_S32
+            Compressed: 0
+            Size: 4
+            Compressed Size: 0
+            Data: 0
+
+        Name: Properties70
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: EmissiveColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: EmissiveFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: AmbientColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 12
+            Compressed Size: 0
+            Data: DiffuseColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: DiffuseFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.800000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: TransparentColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 13
+            Compressed Size: 0
+            Data: SpecularColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 14
+            Compressed Size: 0
+            Data: SpecularFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.250000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 9
+            Compressed Size: 0
+            Data: Shininess
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 9.607843
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 17
+            Compressed Size: 0
+            Data: ShininessExponent
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 9.607843
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 15
+            Compressed Size: 0
+            Data: ReflectionColor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 5
+            Compressed Size: 0
+            Data: Color
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 1.000000
+
+        Name: P
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 16
+            Compressed Size: 0
+            Data: ReflectionFactor
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 6
+            Compressed Size: 0
+            Data: Number
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 1
+            Compressed Size: 0
+            Data: A
+
+            Type: FBX_PROPERTY_F64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0.000000
+
+    Name: Connections
+        Name: C
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 2
+            Compressed Size: 0
+            Data: OO
+
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 790445974
+
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 0
+
+        Name: C
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 2
+            Compressed Size: 0
+            Data: OO
+
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 738895933
+
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 790445974
+
+        Name: C
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 2
+            Compressed Size: 0
+            Data: OO
+
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 19152304
+
+            Type: FBX_PROPERTY_S64
+            Compressed: 0
+            Size: 8
+            Compressed Size: 0
+            Data: 790445974
+
+    Name: Takes
+        Name: Current
+            Type: FBX_PROPERTY_STRING
+            Compressed: 0
+            Size: 0
+            Compressed Size: 0
+            Data: 
+
