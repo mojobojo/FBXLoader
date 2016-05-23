@@ -1,6 +1,9 @@
 # FBX Loader
 FBX Loader written for some game stuff I am doing. Leaks memory everywhere.
 
+Decompression is done with stb_image. 
+https://github.com/nothings/stb
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
