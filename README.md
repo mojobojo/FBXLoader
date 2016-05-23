@@ -1,6 +1,9 @@
 # FBX Loader
 FBX Loader written for some game stuff I am doing. Leaks memory everywhere.
 
+File format reference used from here
+https://code.blender.org/2013/08/fbx-binary-file-format-specification/
+
 Decompression is done with stb_image. 
 https://github.com/nothings/stb
 

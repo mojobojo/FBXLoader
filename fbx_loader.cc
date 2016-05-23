@@ -124,48 +124,42 @@ fbx_ReadRecord(u8 *FbxData, u32 Start, fbx_record *Record) {
                 case 'Y':{
                     p->Type = FBX_PROPERTY_S16;
                     p->Size = 2;
-                    p->Data = malloc(2);
-                    *(i16 *)p->Data = *(i16 *)s;
+                    p->Data = s;
                     s += 2;
                     break;
                 }
                 case 'C':{
                     p->Type = FBX_PROPERTY_BOOL;
                     p->Size = 1;
-                    p->Data = malloc(1);
-                    *(i8 *)p->Data = *(i8 *)s;
+                    p->Data = s;
                     ++s;
                     break;
                 }
                 case 'I':{
                     p->Type = FBX_PROPERTY_S32;
                     p->Size = 4;
-                    p->Data = malloc(4);
-                    *(i32 *)p->Data = *(i32 *)s;
+                    p->Data = s;
                     s += 4;
                     break;
                 }
                 case 'F':{
                     p->Type = FBX_PROPERTY_F32;
                     p->Size = 4;
-                    p->Data = malloc(4);
-                    *(f32 *)p->Data = *(f32 *)s;
+                    p->Data = s;
                     s += 4;
                     break;
                 }
                 case 'D':{
                     p->Type = FBX_PROPERTY_F64;
                     p->Size = 8;
-                    p->Data = malloc(8);
-                    *(f64 *)p->Data = *(f64 *)s;
+                    p->Data = s;
                     s += 8;
                     break;
                 }
                 case 'L':{
                     p->Type = FBX_PROPERTY_S64;
                     p->Size = 8;
-                    p->Data = malloc(8);
-                    *(i64 *)p->Data = *(i64 *)s;
+                    p->Data = s;
                     s += 8;
                     break;
                 }
@@ -179,15 +173,13 @@ fbx_ReadRecord(u8 *FbxData, u32 Start, fbx_record *Record) {
                         p->Size = ArrayLen*4;
                         p->CompressedSize = CompressedLen;
                         p->Compressed = true;
-                        p->Data = malloc(CompressedLen);
-                        memcpy(p->Data, s+12, CompressedLen);
+                        p->Data = s+12;
                         s += 12+CompressedLen;
                     }
                     else {
                         p->Type = FBX_PROPERTY_F32_ARRAY;
                         p->Size = ArrayLen*4;
-                        p->Data = malloc(ArrayLen*4);
-                        memcpy(p->Data, s+12, ArrayLen*4);
+                        p->Data = s+12;
                         s += 12+(ArrayLen*4);
                     }
                     break;
@@ -202,15 +194,13 @@ fbx_ReadRecord(u8 *FbxData, u32 Start, fbx_record *Record) {
                         p->Size = ArrayLen*8;
                         p->CompressedSize = CompressedLen;
                         p->Compressed = true;
-                        p->Data = malloc(CompressedLen);
-                        memcpy(p->Data, s+12, CompressedLen);
+                        p->Data = s+12;
                         s += 12+CompressedLen;
                     }
                     else {
                         p->Type = FBX_PROPERTY_F64_ARRAY;
                         p->Size = ArrayLen*8;
-                        p->Data = malloc(ArrayLen*8);
-                        memcpy(p->Data, s+12, ArrayLen*8);
+                        p->Data = s+12;
                         s += 12+(ArrayLen*8);
                     }
                     break;
@@ -225,15 +215,13 @@ fbx_ReadRecord(u8 *FbxData, u32 Start, fbx_record *Record) {
                         p->Size = ArrayLen*4;
                         p->CompressedSize = CompressedLen;
                         p->Compressed = true;
-                        p->Data = malloc(CompressedLen);
-                        memcpy(p->Data, s+12, CompressedLen);
+                        p->Data = s+12;
                         s += 12+CompressedLen;
                     }
                     else {
                         p->Type = FBX_PROPERTY_S32_ARRAY;
                         p->Size = ArrayLen*4;
-                        p->Data = malloc(ArrayLen*4);
-                        memcpy(p->Data, s+12, ArrayLen*4);
+                        p->Data = s+12;
                         s += 12+(ArrayLen*4);
                     }
                     break;
@@ -249,15 +237,13 @@ fbx_ReadRecord(u8 *FbxData, u32 Start, fbx_record *Record) {
                         p->Size = ArrayLen*8;
                         p->CompressedSize = CompressedLen;
                         p->Compressed = true;
-                        p->Data = malloc(CompressedLen);
-                        memcpy(p->Data, s+12, CompressedLen);
+                        p->Data = s+12;
                         s += 12+CompressedLen;
                     }
                     else {
                         p->Type = FBX_PROPERTY_S64_ARRAY;
                         p->Size = ArrayLen*8;
-                        p->Data = malloc(ArrayLen*8);
-                        memcpy(p->Data, s+12, ArrayLen*8);
+                        p->Data = s+12;
                         s += 12+(ArrayLen*8);
                     }
                     break;
@@ -272,15 +258,13 @@ fbx_ReadRecord(u8 *FbxData, u32 Start, fbx_record *Record) {
                         p->Size = ArrayLen*1;
                         p->CompressedSize = CompressedLen;
                         p->Compressed = true;
-                        p->Data = malloc(CompressedLen);
-                        memcpy(p->Data, s+12, CompressedLen);
+                        p->Data = s+12;
                         s += 12+CompressedLen;
                     }
                     else {
                         p->Type = FBX_PROPERTY_BOOL_ARRAY;
                         p->Size = ArrayLen*1;
-                        p->Data = malloc(ArrayLen*1);
-                        memcpy(p->Data, s+12, ArrayLen*1);
+                        p->Data = s+12;
                         s += 12+(ArrayLen*1);
                     }
                     break;
@@ -289,8 +273,7 @@ fbx_ReadRecord(u8 *FbxData, u32 Start, fbx_record *Record) {
                     u32 Len = *(u32 *)s;
                     p->Type = FBX_PROPERTY_STRING;
                     p->Size = Len;
-                    p->Data = malloc(Len);
-                    memcpy(p->Data, s+4, Len);
+                    p->Data = s+4;
                     s += 4+Len;
                     break;
                 }
@@ -298,8 +281,7 @@ fbx_ReadRecord(u8 *FbxData, u32 Start, fbx_record *Record) {
                     u32 Len = *(u32 *)s;
                     p->Type = FBX_PROPERTY_RAW;
                     p->Size = Len;
-                    p->Data = malloc(Len);
-                    memcpy(p->Data, s+4, Len);
+                    p->Data = s+4;
                     s += 4+Len;
                     break;
                 }
