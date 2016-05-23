@@ -94,9 +94,6 @@ struct fbx_file {
     fbx_record *Records;
 };
 
-u8 *FileBuffer;
-size_t FileSize;
-
 internal u32
 fbx_ReadRecord(u8 *FbxData, u32 Start, fbx_record *Record) {
 
@@ -292,7 +289,6 @@ fbx_ReadRecord(u8 *FbxData, u32 Start, fbx_record *Record) {
         }
 
         u64 NextOffset = s-FbxData;
-        Assert((NextOffset&0xFFFFFFFF00000000) == 0);
 
         u32 Next = (u32)NextOffset;
         Record->SubRecord = (fbx_record *)malloc(sizeof(fbx_record));
@@ -338,7 +334,25 @@ fbx_Parse(u8 *FbxData, size_t FbxDataSize, fbx_file *OutFbx) {
     return success;
 }
 
-i32 RecordIndent = 0;
+internal void
+fbx_FreeRecord(fbx_record *Record) {
+    while (Record) {
+        if (Record->SubRecord) {
+            fbx_FreeRecord(Record->SubRecord);
+        }
+        mfree(Record);
+        Record = Record->Next;
+    }
+}
+
+internal void
+fbx_Free(fbx_file *FbxFile) {
+    if (FbxFile && FbxFile->Records) {
+        fbx_FreeRecord(FbxFile->Records);
+    }
+
+    FbxFile->Records = 0;
+}
 
 internal char *
 fbx_PropertyTypeToString(fbx_property_type Type) {
@@ -404,10 +418,14 @@ fbx_PropertyTypeToString(fbx_property_type Type) {
     return TypeString;
 }
 
+i32 RecordIndent = 0;
 internal void
 fbx_PrintRecords(fbx_record *Record) {
     ++RecordIndent;
     while (Record) {
+        // NOTE(joey): Right now my fbx parser outputs a blank record at the end of each
+        // linked list. Im stuck right now on figuring out how to fix that so leaving it
+        // for later.
         if (strlen(Record->Name)) {
             char Indent[256] = {};
             i32 Written = 0;
@@ -452,6 +470,10 @@ fbx_PrintRecords(fbx_record *Record) {
                         for (u32 n = 0; n < Count; ++n) {
                             printf("%s", Buffer[n] != 0 ? "true" : "false");
                         }
+
+                        if (Compressed) {
+                            mfree(Buffer);
+                        }
                         break;
                     }
                     case FBX_PROPERTY_S32: {
@@ -470,6 +492,10 @@ fbx_PrintRecords(fbx_record *Record) {
 
                         for (u32 n = 0; n < Count; ++n) {
                             printf("%d ", Buffer[n]);
+                        }
+
+                        if (Compressed) {
+                            mfree(Buffer);
                         }
                         break;
                     }
@@ -490,6 +516,10 @@ fbx_PrintRecords(fbx_record *Record) {
                         for (u32 n = 0; n < Count; ++n) {
                             printf("%lld ", Buffer[n]);
                         }
+
+                        if (Compressed) {
+                            mfree(Buffer);
+                        }
                         break;
                     }
                     case FBX_PROPERTY_F32: {
@@ -509,6 +539,10 @@ fbx_PrintRecords(fbx_record *Record) {
                         for (u32 n = 0; n < Count; ++n) {
                             printf("%f ", Buffer[n]);
                         }
+
+                        if (Compressed) {
+                            mfree(Buffer);
+                        }
                         break;
                     }
                     case FBX_PROPERTY_F64: {
@@ -527,6 +561,10 @@ fbx_PrintRecords(fbx_record *Record) {
 
                         for (u32 n = 0; n < Count; ++n) {
                             printf("%f ", Buffer[n]);
+                        }
+
+                        if (Compressed) {
+                            mfree(Buffer);
                         }
                         break;
                     }
@@ -563,6 +601,8 @@ fbx_PrintRecords(fbx_record *Record) {
 int
 main(int argc, char **argv) {
     FILE *f = fopen("cube.fbx", "rb");
+    u8 *FileBuffer;
+    size_t FileSize;
 
     if (f) {
         fseek(f, 0, SEEK_END);
@@ -577,6 +617,8 @@ main(int argc, char **argv) {
             printf("Parsed file!\n");
 
             fbx_PrintRecords(FbxFile.Records);
+
+            fbx_Free(&FbxFile);
         }
     }
 
