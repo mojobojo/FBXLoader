@@ -53,3 +53,5 @@ Temporary Items
 *.pdb
 *.map
 fbx_loader.sln
+*.suo
+*.sln
