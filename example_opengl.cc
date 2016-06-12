@@ -219,6 +219,7 @@ int CALLBACK WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLi
 
             GlContext = wglCreateContext(DeviceContext);
             if (wglMakeCurrent(DeviceContext, GlContext)) {
+                SetWindowTextA(WindowHandle, (LPCSTR)glGetString(GL_VERSION));
                 LoadFbx("cube.fbx");
                 glEnable(GL_DEPTH_TEST);
                 glDepthFunc(GL_LESS);
