@@ -303,8 +303,6 @@ fbxl_internal fbxl_b32 fbxl_Parse(fbxl_u8 *FbxData, size_t FbxDataSize, fbx_file
     if (memcmp(FbxData, FBX_MAGIC, sizeof(FBX_MAGIC)) == 0) {
         o->Version = *(fbxl_u32 *)(FbxData+0x17);
 
-        printf("Version: %d\n", o->Version);
-
         fbxl_u32 Next = 0x1B;
         o->Records = (fbx_record *)fbxl_malloc(sizeof(fbx_record));
         memset(o->Records, 0, sizeof(fbx_record));
